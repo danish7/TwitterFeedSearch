@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Twitter Api -->
+    <string name="api_consumer_key">zaJ2jdAE9ybj5Z78MryRCMzPU</string>
+    <string name="api_consumer_secret">na3Qb8j8lut99J3LtCC8SN772rnjQGklsxq2qgVBIy13TmxB1i</string>
+</resources>
